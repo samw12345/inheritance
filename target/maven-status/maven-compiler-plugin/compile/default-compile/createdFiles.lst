@@ -1,3 +1,6 @@
+com\qa\aggregates\MainUnit.class
+com\qa\aggregates\AAA.class
 com\qa\inheritance\AAA.class
+com\qa\aggregates\BBB.class
 com\qa\inheritance\MainUnit.class
 com\qa\inheritance\BBB.class
